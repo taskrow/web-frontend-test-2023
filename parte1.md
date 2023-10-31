@@ -1,3 +1,5 @@
+> [Teste frontend](readme.md)
+
 # Parte 1 - Lógica e JavaScript
 
 Essa parte pode ser implementada prefencialmente com TypeScript. JavaScript também será aceita, mas será um aspecto negativo na avaliação. Se implementar em TypeScript, lembre-se de tipar as entradas e saídas de forma explícita.
