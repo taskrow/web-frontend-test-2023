@@ -24,3 +24,4 @@ Construa uma aplicação React (em complemento ao React pode utilizar Material U
 
 - Você pode utilizar qualquer biblioteca ou framework que desejar, mas deve utilizar React;
 - Não é obrigatório, mas React Router torna essa tarefa mais fácil;
+- Ao entregar o teste, crie uma pasta chamada `parte3` e coloque todos os arquivos necessários para a aplicação rodar, inclusive os que eventualmente tenham sido implementados nas partes 1 e 2;

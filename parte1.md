@@ -60,4 +60,4 @@ Você deve implementar uma classe chamada Grupos. Essa classe deve ter a seguint
 
 - construtor vazio
 - método 'carrega' que deve fazer uma chamada server para carregar o arquivo grupos.json (disponível neste repositório). É importante que este método retorne um Promise que seja resolvido quando o arquivo for carregado
-- método 'busca' que deve receber um nome de usuário e um callback que será chamado quando a busca for finalizada, o método deve iterar recursivamente sobre a estrutura de grupos e retornar um array com os grupos que contenham um usuário cujo nome contenha a string buscada
+- método 'busca' que deve receber um nome de usuário e um callback que será chamado quando a busca for finalizada, o método deve iterar recursivamente sobre a estrutura de grupos e chamar o callback passando um array com os grupos que contenham ao menos um usuário cujo nome contenha a string buscada
