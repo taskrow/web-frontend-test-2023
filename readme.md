@@ -10,6 +10,6 @@ Na primeira parte do teste avaliaremos conhecimentos mais básicos de JavaScript
 
 O teste deve ser entregue em um repositório público do GitHub. O link para o repositório deve ser enviado pelo email de convite para o teste. Também aceitamos pull-requests para este repositório. Se tiver alguma dificuldade em entregar o teste, entre em contato conosco pelo email de convite.
 
-[Parte 1](parte1.md)
-[Parte 2](parte2.md)
-[Parte 3](parte3.md)
+- [Parte 1](parte1.md) : Aqui avaliaremos o quão proficiente você é com TypeScript / JavaScript.
+- [Parte 2](parte2.md) : Aqui avaliaremos a variedade de recursos de CSS que você domina.
+- [Parte 3](parte3.md) : Por fim queremos ver de que forma você constrói uma aplicação React de verdade.

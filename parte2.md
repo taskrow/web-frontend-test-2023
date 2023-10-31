@@ -25,18 +25,19 @@ Na parte das perguntas seja o mais breve possível, durante a entrevista você p
 ## 2.2 - Implementação
 
 ### 2.2.1 - Básico
-Agora vamos criar uma página simples, sem o auxílio de frameworks. Você deve criar um arquivo chamado "imagens.html" e outro "imagens.css". Neste arquivo, você deve criar uma página que contenha:
+
+Nossa idéia aqui é avaliar sua familiaridade com HTML e CSS. Crie uma página simples, sem o auxílio de frameworks. Você deve criar um arquivo chamado "imagens.html" e outro "imagens.css". Neste arquivo, você deve criar uma página que contenha:
 
 - um formulário ao lado esquerdo da página;
 - uma lista de imagens do lado direito;
 - a parte da esquerda deve ser fixa, ou seja, não deve rolar quando a página sofrer scroll;
-- a parte da direita deve ser rolável, ou seja;
+- a parte da direita deve ser "scrollavel", ou seja, rolar junto com a página quando o scroll for feito;
 
-Para as imagens você deve exibir 10 imagens aleatórias, é importante que elas tenham 500x500px. Você pode usar o site https://picsum.photos/ para gerar imagens aleatórias, com as URLs `https://picsum.photos/500`. Veja que toda vez que vc chama essa url ele gera uma imagem aleatória. Conseguir utilizar esse site e garantir que as imagens sejam sempre diferente será um ponto positivo na avaliação.
+Para as imagens você deve exibir 10 imagens aleatórias, é importante que elas tenham 500x500px. Você pode usar o site https://picsum.photos/ para gerar imagens aleatórias, com as URLs `https://picsum.photos/500`. Observe que toda vez queessa url é chamada, ela gera uma imagem aleatória diferente, no entanto se você simplesmente adicionar 10 tags `<img>` em uma página com essa mesma URL as 10 imagens serão iguais. Consegue dizer por que isso acontece?. Conseguir utilizar esse site e garantir que as imagens sejam sempre diferente será um ponto positivo na avaliação.
 
 Imagem de exemplo (parte2.jpeg):
 <img src="images/parte2.jpg" />
 
 ### 2.2.2 - Avançado
 
-Garantir que as imagens apareçam na página sempre com um tamanho entre 200x200 e 500x500 de modo que nunca fiquem espaços vazios. Sem utilizar JavaScript.
+Ganha um ponto extra quem conseguir o seguinte: garantir que as imagens apareçam na página sempre com um tamanho entre 200x200 e 500x500, ocupando o espaço da direita de forma uniforme, de modo que nunca fiquem espaços vazios. Sem utilizar JavaScript.
