@@ -1,3 +1,5 @@
+<big>&#9888; &#x26A0;<em>Vaga Fechada</em>&#9888; &#x26A0;</big>
+---------------------------
 # Teste para desenvolvedor web frontend 2023
 
 Este teste tem como objetivo avaliar o conhecimento em desenvolvimento web frontend. Ele cobre  HTML, CSS e TypeScript / Javascript, além de conhecimentos específicos de React.
